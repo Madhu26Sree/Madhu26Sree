@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DSA & DEV**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
